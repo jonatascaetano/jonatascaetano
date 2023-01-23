@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Sou desenvolvedor fullstack com foco em desenvolvimento mobile cross platform com dart e flutter e desenvolvimento backend com java e spring boot. tenho 3 anos de experiência com desenvolvimento mobile e 2 anos de experiência com desenvolvimento backend
+Desenvolvedor mobile com flutter e backend com java e springboot, cursando técnico em desenvolvimento de sistemas. Trabalhando com programação deste 2019.
 
 ## ☎️ Contatos
 
