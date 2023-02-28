@@ -26,6 +26,7 @@ Desenvolvedor mobile com flutter e backend com java e springboot, cursando técn
   <a href="https://www.linkedin.com/in/jonatascaetano/" target="_blank"> <img  alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://play.google.com/store/apps/developer?id=jonatas" target="_blank"> <img  alt="google play"  src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
   <a href ="https://hub.docker.com/u/jonatascaetano" target="_blank"> <img  alt="dockerhub"  src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
+  <a href ="https://medium.com/@jonatas.calves" target="_blank"> <img  alt="medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 </div>  
 
