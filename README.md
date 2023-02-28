@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-Desenvolvedor mobile com flutter e backend com java e springboot, cursando técnico em desenvolvimento de sistemas. Trabalhando com programação deste 2019.
+Olá, sou Jonatas Caetano, um entusiasta da tecnologia e do desenvolvimento de software. Comecei a estudar programação em 2019 e desde então venho me dedicando a adquirir conhecimentos em várias áreas da tecnologia. Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Centro Paula Souza, o que tem me proporcionado uma formação sólida e prática para atuar na área. Apesar de ainda não ter experiência profissional, venho aplicando meus conhecimentos em projetos pessoais e acadêmicos, o que tem me permitido desenvolver habilidades em várias áreas.
+
+No desenvolvimento mobile, venho utilizando a ferramenta Flutter para criar interfaces intuitivas e funcionais para aplicativos Android e iOS. Além disso, tenho conhecimentos sólidos em desenvolvimento com Flutter, incluindo gerenciamento de estado, integração com APIs e publicação de aplicativos nas lojas. Também possuo conhecimento em arquiteturas mobile com MVC, MVP e MVVM, o que me permite desenvolver aplicativos estruturados e escaláveis.
+
+No desenvolvimento backend, venho desenvolvendo habilidades em Java para criar aplicações robustas e escaláveis, utilizando frameworks como Spring. Tenho conhecimentos em desenvolvimento de APIs RESTful, bancos de dados relacionais e não-relacionais, além de outras tecnologias utilizadas no desenvolvimento web. Também possuo conhecimentos em arquiteturas de microsserviços e GraphQL.
+
+Estou sempre buscando novas oportunidades para crescer e me desenvolver como profissional. Acredito que a tecnologia é uma ferramenta poderosa para mudar o mundo e tenho orgulho de contribuir para isso. Se você está procurando um desenvolvedor comprometido, dedicado e disposto a aprender, sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato comigo. Seria um prazer colaborar em projetos desafiadores e impactantes.
+
+Obrigado por visitar meu perfil do GitHub. Se você tiver interesse em saber mais sobre minhas habilidades e experiências, fique à vontade para entrar em contato.
+
 
 ## ☎️ Contatos
 
@@ -50,23 +59,24 @@ Desenvolvedor mobile com flutter e backend com java e springboot, cursando técn
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
   <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
+  <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
+  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
   
 </div>  
 
 ## 🎒 Estou estudando
 
 <div style="display: inline_block">
-  <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> 
-  <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
   <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
-  <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
-  <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
 </div> 
 
 ## 🚧 Projetos
