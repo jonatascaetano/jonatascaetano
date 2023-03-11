@@ -1,30 +1,11 @@
-<!--
-### Hi there 👋
 
-**jonatascaetano/jonatascaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Comecei a estudar programação em 2019 e desde então venho me dedicando a adquirir conhecimentos em várias áreas da tecnologia. Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Centro Paula Souza,
 
-Here are some ideas to get you started:
+  No desenvolvimento mobile, venho utilizando a ferramenta Flutter para criar interfaces intuitivas e funcionais para aplicativos Android e iOS, tenho conhecimentos sólidos em desenvolvimento com Flutter, incluindo gerenciamento de estado, integração com APIs e publicação de aplicativos nas lojas. Também possuo conhecimento em arquiteturas mobile como MVC, MVP e MVVM, o que me permite desenvolver aplicativos estruturados e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  No desenvolvimento backend, venho desenvolvendo habilidades em Java para criar aplicações robustas e escaláveis, utilizando frameworks como Spring. Tenho conhecimentos em desenvolvimento de APIs RESTful, bancos de dados relacionais e não-relacionais, além de outras tecnologias utilizadas no desenvolvimento web. Também possuo conhecimentos em arquiteturas de microsserviços e GraphQL.
 
-
-Olá, sou Jonatas Caetano, um entusiasta da tecnologia e do desenvolvimento de software. Comecei a estudar programação em 2019 e desde então venho me dedicando a adquirir conhecimentos em várias áreas da tecnologia. Atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Centro Paula Souza, o que tem me proporcionado uma formação sólida e prática para atuar na área. Apesar de ainda não ter experiência profissional, venho aplicando meus conhecimentos em projetos pessoais e acadêmicos, o que tem me permitido desenvolver habilidades em várias áreas.
-
-No desenvolvimento mobile, venho utilizando a ferramenta Flutter para criar interfaces intuitivas e funcionais para aplicativos Android e iOS. Além disso, tenho conhecimentos sólidos em desenvolvimento com Flutter, incluindo gerenciamento de estado, integração com APIs e publicação de aplicativos nas lojas. Também possuo conhecimento em arquiteturas mobile com MVC, MVP e MVVM, o que me permite desenvolver aplicativos estruturados e escaláveis.
-
-No desenvolvimento backend, venho desenvolvendo habilidades em Java para criar aplicações robustas e escaláveis, utilizando frameworks como Spring. Tenho conhecimentos em desenvolvimento de APIs RESTful, bancos de dados relacionais e não-relacionais, além de outras tecnologias utilizadas no desenvolvimento web. Também possuo conhecimentos em arquiteturas de microsserviços e GraphQL.
-
-Estou sempre buscando novas oportunidades para crescer e me desenvolver como profissional. Acredito que a tecnologia é uma ferramenta poderosa para mudar o mundo e tenho orgulho de contribuir para isso. Se você está procurando um desenvolvedor comprometido, dedicado e disposto a aprender, sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato comigo. Seria um prazer colaborar em projetos desafiadores e impactantes.
-
-Obrigado por visitar meu perfil do GitHub. Se você tiver interesse em saber mais sobre minhas habilidades e experiências, fique à vontade para entrar em contato.
+Sinta-se à vontade para explorar meus projetos no GitHub e entrar em contato comigo.
 
 
 ## ☎️ Contatos
@@ -68,15 +49,6 @@ Obrigado por visitar meu perfil do GitHub. Se você tiver interesse em saber mai
   <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
   
 </div>  
-
-## 🎒 Estou estudando
-
-<div style="display: inline_block">
-  
-  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
-</div> 
 
 ## 🚧 Projetos
   
