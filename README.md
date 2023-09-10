@@ -6,9 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-
-
-
 - 🔭 I’m currently working on IxopPlay
 - 🌱 I’m currently learning android development with java and kotlin
 - 👯 I’m looking to collaborate on mobile projects with flutter
@@ -16,7 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about mobile development
 - 📫 How to reach me:
 
-<img alt="ranking languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&locale=en&hide=markifile"/>
   
 
 
@@ -31,6 +27,9 @@ Here are some ideas to get you started:
   <a href ="https://medium.com/@jonatas.calves" target="_blank"> <img  alt="medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 </div> 
+
+<img alt="ranking languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&locale=en&hide=markifile"/>
+
 
 ## 🚀 Technologies
 
