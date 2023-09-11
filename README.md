@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatascaetano&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+
 
 <!--
 **jonatascaetano/jonatascaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +32,6 @@ Here are some ideas to get you started:
 </div> 
 
 <img alt="ranking languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&locale=en&hide=markifile"/>
-
 
 ## 🚀 Technologies
 
