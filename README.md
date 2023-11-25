@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Itscar World Ltda
-- 🌱 I’m currently learning android development with java and kotlin
-- 👯 I’m looking to collaborate on mobile projects with flutter
-- 🤔 I’m looking for help with ios development
+- 🌱 I’m currently learning mobile development
 - 💬 Ask me about mobile development
 - 📫 How to reach me:
 
