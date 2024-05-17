@@ -9,7 +9,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on top5aplicativos
 - 🌱 I’m currently learning mobile development
 - 💬 Ask me about mobile development
 - 📫 How to reach me:
