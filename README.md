@@ -9,7 +9,7 @@ Desenvolvedor Flutter com sólida experiência em criação de aplicativos mobil
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img alt="ranking languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&layout=donut&theme=radical&locale=pt-br&include_all_commits=true"/>
+  <img alt="ranking languages" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&layout=donut&theme=radical&locale=pt-br&include_all_commits=true&langs_count=10"/>
   <img alt="top languages" height="250px" src="https://github-readme-stats.vercel.app/api?username=jonatascaetano&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&rank_icon=percentile"/>
 </div>
 
