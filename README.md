@@ -1,14 +1,11 @@
 # 👨‍💻 Jonatas Caetano Alves
 
-Programo desde 2019, Técnico em Desenvolvimento de Sistemas (2024).
-
-Backend: Java, Golang, Node.js, APIs REST, GraphQL, gRPC, microserviços, RabbitMQ, Kafka, SQL (MySQL, SQL Server), NoSQL (MongoDB, Redis).
-
-Frontend: Angular.
-
-Mobile: Flutter, Android Nativo com integrações REST e Firebase (Authentication, Firestore, Cloud Messaging, Crashlytics, etc.).
-
-DevOps: Scrum, Kanban, Git/Git Flow, Docker, Kubernetes, CI/CD com GitHub Actions.
+| Tecnologia | Detalhamento |
+|---|---|
+| **Backend** | Java, Golang, Node.js, APIs REST, GraphQL, gRPC, microserviços, RabbitMQ, Kafka, SQL (MySQL, SQL Server), NoSQL (MongoDB, Redis) |
+| **Frontend** | Angular |
+| **Mobile** | Flutter, Android Nativo com integrações REST e Firebase (Authentication, Firestore, Cloud Messaging, Crashlytics, etc.) |
+| **DevOps** | Scrum, Kanban, Git/Git Flow, Docker, Kubernetes, CI/CD com GitHub Actions |
 
 ### 📊 Estatísticas do GitHub
 
