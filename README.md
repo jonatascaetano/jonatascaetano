@@ -1,18 +1,4 @@
-# 👨‍💻 Jonatas Caetano Alves
 
-| Tecnologia | Detalhamento |
-|---|---|
-| **Backend** | Java, Golang, Node.js, APIs REST, GraphQL, gRPC, microserviços, RabbitMQ, Kafka, SQL (MySQL, SQL Server), NoSQL (MongoDB, Redis) |
-| **Frontend** | Angular |
-| **Mobile** | Flutter, Android Nativo com integrações REST e Firebase (Authentication, Firestore, Cloud Messaging, Crashlytics, etc.) |
-| **DevOps** | Scrum, Kanban, Git/Git Flow, Docker, Kubernetes, CI/CD com GitHub Actions |
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img alt="ranking languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&layout=compact&theme=radical&locale=pt-br&include_all_commits=true"/>
-  <img alt="top languages" height="150px" src="https://github-readme-stats.vercel.app/api?username=jonatascaetano&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&rank_icon=percentile"/>
-</p>
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -31,12 +17,20 @@
 ### 📫 Contato
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5514991648334&text=Ol%C3%A1%2C%20Jonatas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatas.calves@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jonatas.caetano@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatascaetano/)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Jonatas+Caetano+Alves)
-[![DockerHub](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/jonatascaetano)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jonatas.calves)
+
+<!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatas.calves@gmail.com)-->
+<!--[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jonatas.caetano@outlook.com)-->
+<!--[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Jonatas+Caetano+Alves)-->
+<!--[![DockerHub](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/jonatascaetano)-->
+<!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jonatas.calves)-->
 
   <img src="https://komarev.com/ghpvc/?username=jonatascaetano&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img alt="ranking languages" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatascaetano&layout=compact&theme=radical&locale=pt-br&include_all_commits=true"/>
+  <img alt="top languages" height="150px" src="https://github-readme-stats.vercel.app/api?username=jonatascaetano&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&rank_icon=percentile"/>
 </p>
