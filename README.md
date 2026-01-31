@@ -59,7 +59,7 @@ Atuo em projetos corporativos e governamentais, desenvolvendo soluções voltada
 
 ## 📌 Objetivo Profissional
 
-Atuar como **Desenvolvedor Java Backend**, contribuindo com soluções robustas, seguras e escaláveis, utilizando boas práticas de arquitetura, integração de sistemas e desenvolvimento orientado à qualidade.
+Atuar como **Desenvolvedor**, contribuindo com soluções robustas, seguras e escaláveis, utilizando boas práticas de arquitetura, integração de sistemas e desenvolvimento orientado à qualidade.
 
 ---
 
