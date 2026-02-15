@@ -2,8 +2,6 @@
 
 Sou **Desenvolvedor Java Sênior**, com atuação em **backend** e **integração mobile**, trabalhando principalmente com **Java + Spring Boot** na construção de APIs e **Flutter/Dart** no desenvolvimento de aplicações móveis.
 
-Atuo em projetos corporativos e governamentais, desenvolvendo soluções voltadas à segurança, escalabilidade e manutenção de sistemas críticos.
-
 ---
 
 ## 🚀 Principais Tecnologias
