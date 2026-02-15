@@ -55,12 +55,6 @@ Sou **Desenvolvedor Java Sênior**, com atuação em **backend** e **integraçã
 
 ---
 
-## 📌 Objetivo Profissional
-
-Atuar como **Desenvolvedor**, contribuindo com soluções robustas, seguras e escaláveis, utilizando boas práticas de arquitetura, integração de sistemas e desenvolvimento orientado à qualidade.
-
----
-
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/jonatascaetano  
